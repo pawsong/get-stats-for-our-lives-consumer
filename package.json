@@ -1,0 +1,17 @@
+{
+  "name": "consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc a.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "get-stats-for-our-lives": "github:pawsong/get-stats-for-our-lives#dist"
+  },
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
+}
